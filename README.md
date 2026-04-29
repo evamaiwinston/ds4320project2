@@ -12,7 +12,7 @@ vxm2ek
 
 [Solution Pipeline](https://github.com/evamaiwinston/ds4320project2/blob/main/pipeline.ipynb)
 
-[License](https://github.com/evamaiwinston/ds4320project2/blob/main/LICENSE)
+[MIT License](https://github.com/evamaiwinston/ds4320project2/blob/main/LICENSE)
 
 ## Problem Definition
 Initial problem: Allocating emergency response resources
